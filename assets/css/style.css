@@ -58,7 +58,7 @@
   --secondary:#ce1212;
 }
 
-/* Smooth scroll behavior */
+
 :root {
   scroll-behavior: smooth;
 }
@@ -544,5 +544,10 @@ body {
     float: none;
     text-align: center;
   }
+}
+#footer .credits {
+  float: right;
+  font-size: 24px;
+  color: #0f394c;
 }
 
